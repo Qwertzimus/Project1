@@ -6,6 +6,6 @@
 	<classpathentry kind="output" path="bin/classes"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
-	<classpathentry kind="lib" exported="true" path="/Project1/libs/gdx.jar" sourcepath="/Project1/libs/gdx-sources.jar"/>
+	<classpathentry kind="lib" exported="true" path="libs/gdx.jar" sourcepath="libs/gdx-sources.jar"/>
 	<classpathentry kind="lib" exported="true" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
 </classpath>
