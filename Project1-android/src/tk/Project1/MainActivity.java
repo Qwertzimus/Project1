@@ -19,8 +19,8 @@ public class MainActivity extends AndroidApplication
         initialize(new Project1(), cfg);
     }
 	@Override
-    public boolean onGenericMotionEvent(android.view.MotionEvent event){
-		
-		 return super.onGenericMotionEvent(event);
+    public boolean onTouchEvent(android.view.MotionEvent event){
+		System.out.println("Motionevent");
+		 return super.onTouchEvent(event);
 	}
 }
